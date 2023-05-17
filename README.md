@@ -23,14 +23,5 @@
 - Third-party Service Import  
 - System Planning and Education Training  
 
-## Forex Trading Application
-
-- Member Center, Back-office Management System  
-- White Label Management System  
-- MT4 Manager Integration  
-- MT4/MT5 Copy Trade program  
-- MT4/MT5 Expert Advisors
-- Trading Signal  
-
 [Blogger](https://kjyitech.blogspot.com)  
 [Email](kjyi.tech@gmail.com)  
